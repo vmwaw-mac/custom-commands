@@ -1,0 +1,4 @@
+<dict>
+    <key>RequestType</key>
+    <string>ShutDownDevice</string>
+</dict>

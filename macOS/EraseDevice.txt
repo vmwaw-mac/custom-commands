@@ -1,0 +1,6 @@
+<dict>
+    <key>RequestType</key>
+    <string>EraseDevice</string>
+    <key>PIN</key>
+    <string>111111</string>
+</dict>

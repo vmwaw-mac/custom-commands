@@ -1,0 +1,6 @@
+<dict>
+    <key>RequestType</key>
+    <string>InstallApplication</string>
+    <key>ManifestURL</key>
+    <string>https://s3.us-east-2.amazonaws.com/vmwaw-macqe/WiresharkManifest.plist</string>
+</dict>

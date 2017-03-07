@@ -1,0 +1,15 @@
+# Supervised only (10.2+)
+
+<dict>
+    <key>RequestType</key>
+    <string>Settings</string>
+    <key>Settings</key>
+    <array>
+        <dict>
+            <key>Item</key>
+            <string>DeviceName</string>
+            <key>DeviceName</key>
+            <string>jrich-test</string>
+        </dict>
+    </array>
+</dict>
