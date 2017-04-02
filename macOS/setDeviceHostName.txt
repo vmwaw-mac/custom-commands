@@ -12,13 +12,13 @@
             <key>Item</key>
             <string>DeviceName</string>
             <key>DeviceName</key>
-            <string>jrich-test2</string>
+            <string>test-device-name</string>
         </dict>
         <dict>
             <key>Item</key>
             <string>HostName</string>
             <key>HostName</key>
-            <string>jrich-hosttest2</string>
+            <string>test-host-name</string>
         </dict>
     </array>
 </dict>
